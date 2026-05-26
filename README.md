@@ -17,7 +17,6 @@ Building AI tools, realtime systems and developer-focused products that solve re
 <img src="./assets/charmander.webp" width="55">
 <img src="./assets/squirtle.webp" width="55">
 <img src="./assets/chikorita.webp" width="55">
-<img src="./assets/chikorita.webp" width="55">
 <img src="./assets/krabby.webp" width="55">
 <img src="./assets/onix.webp" width="70">
 
@@ -346,7 +345,6 @@ Interactive Sanskrit learning platform powered by modern web tech.
 <img src="./assets/bulbasaur.webp" width="65">
 <img src="./assets/charmander.webp" width="65">
 <img src="./assets/squirtle.webp" width="65">
-<img src="./assets/chikorita.webp" width="65">
 <img src="./assets/chikorita.webp" width="65">
 <img src="./assets/krabby.webp" width="65">
 <img src="./assets/onix.webp" width="80">
