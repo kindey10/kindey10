@@ -242,7 +242,7 @@ Interactive Sanskrit learning platform powered by modern web tech.
 
 `Next.js` `Firebase` `Tailwind`
 
-🕷️ Spidy Points : 470/500
+🕷️ Spidy Points : 470/500 <br>
 Soo many new things learned!
 
 </td>
@@ -311,7 +311,6 @@ Soo many new things learned!
 <img src="./assets/bulbasaur.webp" width="58">
 <img src="./assets/charmander.webp" width="58">
 <img src="./assets/squirtle.webp" width="58">
-<img src="./assets/chikorita.webp" width="58">
 <img src="./assets/chikorita.webp" width="58">
 <img src="./assets/krabby.webp" width="58">
 <img src="./assets/onix.webp" width="75">
