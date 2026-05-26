@@ -6,12 +6,11 @@
 
 # KINJAL PANDEY
 
-### 🧠 AI Builder • Full Stack Developer • Realtime Systems Explorer
+### AI Builder • Full Stack Developer • Realtime Systems Explorer
 
-```txt
-Turning ideas into useful products with AI, clean code,
-thoughtful design and a little bit of pixel-art chaos.
-```
+Turning ideas into useful products with AI, clean code, thoughtful design and a little bit of pixel-art chaos.
+
+<br>
 
 <img src="./assets/pikachu.webp" width="50">
 <img src="./assets/bulbasaur.webp" width="50">
@@ -23,12 +22,7 @@ thoughtful design and a little bit of pixel-art chaos.
 
 <br><br>
 
-```txt
-🏎️ "Smooth operator under pressure."
-🕷️ "With great power comes great responsibility."
-🏁 "Lights out and away we code."
-🕸️ "Anyone can wear the mask."
-```
+🏎️ "Smooth operator under pressure." &nbsp;&nbsp;&nbsp; 🏁 "Lights out and away we code."
 
 </div>
 
@@ -51,28 +45,24 @@ thoughtful design and a little bit of pixel-art chaos.
 
 </div>
 
-```txt
-Computer Science student and builder.
+Computer Science student and builder.  
 
-I enjoy transforming ideas into impactful products
-through AI, realtime systems and thoughtful design.
+I enjoy transforming ideas into impactful products through AI, realtime systems and thoughtful design.
 
 Currently exploring:
-• LLMs & RAG
-• AI agents
-• Realtime applications
-• Full stack systems
-• IoT integrations
-```
 
-<div align="center">
+- LLMs & RAG
+- AI agents
+- Realtime applications
+- Full stack systems
+- IoT integrations
+
+<br>
 
 📍 India  
 📧 [kindey2004@gmail.com](mailto:kindey2004@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kindey10/)  
 🐦 [X / Twitter](https://x.com/Kindey_10)
-
-</div>
 
 </td>
 
@@ -84,19 +74,18 @@ Currently exploring:
 
 </div>
 
-```txt
-╭────────────────────────────╮
-│  > Exploring LLMs & RAG     │
-│  > Building realtime AI     │
-│  > Improving dev experience │
-│  > Preparing for SWE roles  │
-╰────────────────────────────╯
-```
+━━━━━━━━━━━━━━━━━━━━━━
 
-```txt
-Quest Mode : ACTIVE
+> Exploring LLMs & RAG  
+> Building realtime AI  
+> Improving dev experience  
+> Preparing for SWE roles  
+
+<br>
+
 Current Build : AI + Full Stack + DSA
-```
+
+<br>
 
 <div align="center">
 
@@ -184,7 +173,8 @@ Accessibility-focused ML web application designed for visually impaired users.
 
 `HTML` `CSS` `Python` `ML`
 
-⭐ 45 &nbsp; 🍴 12
+🕷️ Spidy Points : 480/500
+Made me win my 1st hackathon!
 
 </td>
 
@@ -196,7 +186,8 @@ AI-powered synthetic media detection browser extension.
 
 `JavaScript` `Python` `AI`
 
-⭐ 67 &nbsp; 🍴 18
+🕷️ Spidy Points : 495/500
+Best win ever! Worst sleepless nights ever!
 
 </td>
 
@@ -208,7 +199,8 @@ Realtime F1 telemetry and race analysis platform.
 
 `React` `FastAPI` `TypeScript`
 
-⭐ 32 &nbsp; 🍴 9
+🕷️ Spidy Points : 490/500
+Come-on its F1!!
 
 </td>
 
@@ -224,7 +216,8 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 `C++` `ESP8266` `IoT`
 
-⭐ 28 &nbsp; 🍴 8
+🕷️ Spidy Points : 475/500
+1st internship 1st new skill
 
 </td>
 
@@ -236,7 +229,8 @@ Workflow platform for ESG data ingestion and validation.
 
 `Django` `React` `PostgreSQL`
 
-⭐ 21 &nbsp; 🍴 6
+🕷️ Spidy Points : 485/500
+Worked for a dream!
 
 </td>
 
@@ -248,7 +242,8 @@ Interactive Sanskrit learning platform powered by modern web tech.
 
 `Next.js` `Firebase` `Tailwind`
 
-⭐ 14 &nbsp; 🍴 4
+🕷️ Spidy Points : 470/500
+Soo many new things learned!
 
 </td>
 
@@ -269,21 +264,17 @@ Interactive Sanskrit learning platform powered by modern web tech.
 
 <td width="50%" valign="top">
 
-```txt
-✅ Become a top-tier software engineer
-✅ Build impactful AI products
-✅ Master DSA & system design
-```
+🕸️ Become a top-tier software engineer  
+🕸️ Build impactful AI products  
+🕸️ Master DSA & system design  
 
 </td>
 
 <td width="50%" valign="top">
 
-```txt
-✅ Contribute to meaningful open source
-✅ Work on realtime AI systems
-✅ Explore advanced ML & LLM apps
-```
+🕷️ Contribute to meaningful open source  
+🕷️ Work on realtime AI systems  
+🕷️ Explore advanced ML & LLM apps  
 
 </td>
 
@@ -321,14 +312,12 @@ Interactive Sanskrit learning platform powered by modern web tech.
 <img src="./assets/charmander.webp" width="58">
 <img src="./assets/squirtle.webp" width="58">
 <img src="./assets/chikorita.webp" width="58">
+<img src="./assets/chikorita.webp" width="58">
 <img src="./assets/krabby.webp" width="58">
 <img src="./assets/onix.webp" width="75">
 
 <br><br>
 
-```txt
-Every bug is a wild Pokémon battle.
-Let's catch them all and build something amazing.
-```
+Every bug is a wild Pokémon battle. Let's catch them all and build something amazing.
 
 </div>
