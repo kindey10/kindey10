@@ -22,7 +22,7 @@ Turning ideas into useful products with AI, clean code, thoughtful design and a 
 
 <br><br>
 
-🏎️ "Smooth operator under pressure." &nbsp;&nbsp;&nbsp; 🏁 "Lights out and away we code."
+🏎️ "Smooth operator under pressure." &nbsp;&nbsp;&nbsp; <br>🏁 "Lights out and away we code."
 
 </div>
 
@@ -89,8 +89,7 @@ Current Build : AI + Full Stack + DSA
 
 <div align="center">
 
-<img src="./assets/squirtle.webp" width="105">
-<img src="./assets/chikorita.webp" width="90">
+<img src="./assets/squirtle.webp" width="150">
 
 </div>
 
@@ -167,13 +166,13 @@ Current Build : AI + Full Stack + DSA
 
 <td width="33%" valign="top">
 
-## <img src="./assets/onix.webp" width="50"> Vision-46
+## <img src="./assets/onix.webp" width="75"> Vision-46
 
 Accessibility-focused ML web application designed for visually impaired users.
 
 `HTML` `CSS` `Python` `ML`
 
-🕷️ Spidy Points : 480/500
+🕷️ Spidy Points : 480/500<br>
 Made me win my 1st hackathon!
 
 </td>
@@ -186,7 +185,7 @@ AI-powered synthetic media detection browser extension.
 
 `JavaScript` `Python` `AI`
 
-🕷️ Spidy Points : 495/500
+🕷️ Spidy Points : 495/500<br>
 Best win ever! Worst sleepless nights ever!
 
 </td>
@@ -199,7 +198,7 @@ Realtime F1 telemetry and race analysis platform.
 
 `React` `FastAPI` `TypeScript`
 
-🕷️ Spidy Points : 490/500
+🕷️ Spidy Points : 490/500<br>
 Come-on its F1!!
 
 </td>
@@ -216,7 +215,7 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 `C++` `ESP8266` `IoT`
 
-🕷️ Spidy Points : 475/500
+🕷️ Spidy Points : 475/500<br>
 1st internship 1st new skill
 
 </td>
@@ -229,7 +228,7 @@ Workflow platform for ESG data ingestion and validation.
 
 `Django` `React` `PostgreSQL`
 
-🕷️ Spidy Points : 485/500
+🕷️ Spidy Points : 485/500<br>
 Worked for a dream!
 
 </td>
