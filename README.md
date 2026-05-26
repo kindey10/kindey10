@@ -164,7 +164,7 @@ Current Build : AI + Full Stack + DSA
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## <img src="./assets/onix.webp" width="75"> Vision-46
 
