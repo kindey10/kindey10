@@ -2,28 +2,54 @@
 
 <img src="./assets/banner.png" width="100%" alt="Kinjal Pandey GitHub Banner"/>
 
-<br><br>
+<br>
 
 # KINJAL PANDEY
 
-### ⚡ AI & Full Stack Developer ⚡
+### 🧠 AI Builder • Full Stack Developer • Realtime Systems Explorer
 
-Building AI tools, realtime systems and developer-focused products that solve real-world problems.
+```txt
+Turning ideas into useful products with AI, clean code,
+thoughtful design and a little bit of pixel-art chaos.
+```
 
-<br>
+<img src="./assets/pikachu.webp" width="50">
+<img src="./assets/bulbasaur.webp" width="50">
+<img src="./assets/charmander.webp" width="50">
+<img src="./assets/squirtle.webp" width="50">
+<img src="./assets/chikorita.webp" width="50">
+<img src="./assets/krabby.webp" width="50">
+<img src="./assets/onix.webp" width="65">
+
+<br><br>
+
+```txt
+🏎️ "Smooth operator under pressure."
+🕷️ "With great power comes great responsibility."
+🏁 "Lights out and away we code."
+🕸️ "Anyone can wear the mask."
+```
 
 </div>
 
 ---
 
+<div align="center">
+
 # 🌌 TRAINER PROFILE
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
+
+<div align="center">
 
 ### 👩‍💻 ABOUT ME
+
+</div>
 
 ```txt
 Computer Science student and builder.
@@ -39,27 +65,43 @@ Currently exploring:
 • IoT integrations
 ```
 
+<div align="center">
+
 📍 India  
 📧 [kindey2004@gmail.com](mailto:kindey2004@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kindey10/)  
-🐦 [X / Twitter](https://x.com/Kindey_10)  
+🐦 [X / Twitter](https://x.com/Kindey_10)
+
+</div>
 
 </td>
 
-<td width="40%" valign="top">
+<td width="42%" valign="top">
+
+<div align="center">
 
 ### 🎮 CURRENT QUEST
 
+</div>
+
 ```txt
-> Exploring LLMs & RAG
-> Building realtime AI systems
-> Improving developer experience
-> Preparing for top SWE roles
+╭────────────────────────────╮
+│  > Exploring LLMs & RAG     │
+│  > Building realtime AI     │
+│  > Improving dev experience │
+│  > Preparing for SWE roles  │
+╰────────────────────────────╯
 ```
 
-<div align="right">
+```txt
+Quest Mode : ACTIVE
+Current Build : AI + Full Stack + DSA
+```
 
-<img src="./assets/squirtle.webp" width="85">
+<div align="center">
+
+<img src="./assets/squirtle.webp" width="105">
+<img src="./assets/chikorita.webp" width="90">
 
 </div>
 
@@ -70,36 +112,73 @@ Currently exploring:
 
 ---
 
+<div align="center">
+
 # ⚔️ TECH STACK
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br>C++</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>JavaScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>TypeScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>React</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"><br>Next.js</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"><br>Django</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>Firebase</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br>MongoDB</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br>C++
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>TypeScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>React
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"><br>Next.js
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"><br>Django
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>Firebase
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git
+</td>
 
 </tr>
 </table>
 
 ---
 
+<div align="center">
+
 # 🧩 FEATURED PROJECTS
 
-<table>
+</div>
+
+<table align="center">
 
 <tr>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/onix.webp" width="38"> Vision-46
+## <img src="./assets/onix.webp" width="50"> Vision-46
 
 Accessibility-focused ML web application designed for visually impaired users.
 
@@ -111,7 +190,7 @@ Accessibility-focused ML web application designed for visually impaired users.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/pikachu.webp" width="38"> Veritas
+## <img src="./assets/pikachu.webp" width="50"> Veritas
 
 AI-powered synthetic media detection browser extension.
 
@@ -123,7 +202,7 @@ AI-powered synthetic media detection browser extension.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/charmander.webp" width="38"> F1 Pitwall AI
+## <img src="./assets/charmander.webp" width="50"> F1 Pitwall AI
 
 Realtime F1 telemetry and race analysis platform.
 
@@ -139,7 +218,7 @@ Realtime F1 telemetry and race analysis platform.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/bulbasaur.webp" width="38"> Smart IoT Door Lock
+## <img src="./assets/bulbasaur.webp" width="50"> Smart IoT Door Lock
 
 RFID smart door lock with ESP8266 and Home Assistant integration.
 
@@ -151,7 +230,7 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/chikorita.webp" width="38"> Breathe ESG Review
+## <img src="./assets/chikorita.webp" width="50"> Breathe ESG Review
 
 Workflow platform for ESG data ingestion and validation.
 
@@ -163,7 +242,7 @@ Workflow platform for ESG data ingestion and validation.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/krabby.webp" width="38"> Sanskrit Setu
+## <img src="./assets/krabby.webp" width="50"> Sanskrit Setu
 
 Interactive Sanskrit learning platform powered by modern web tech.
 
@@ -179,61 +258,52 @@ Interactive Sanskrit learning platform powered by modern web tech.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<div align="center">
 
-<table>
+# 🎯 CURRENT GOALS
 
+</div>
+
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kindey10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=F472B6&text_color=E5E7EB"/>
+```txt
+✅ Become a top-tier software engineer
+✅ Build impactful AI products
+✅ Master DSA & system design
+```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindey10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB"/>
+```txt
+✅ Contribute to meaningful open source
+✅ Work on realtime AI systems
+✅ Explore advanced ML & LLM apps
+```
 
 </td>
 
 </tr>
-
 </table>
 
-<br>
+---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kindey10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=F472B6&point=F9A8D4"/>
-
-</div>
-
----
-
-# 🎯 CURRENT GOALS
-
-```txt
-✓ Become a top-tier software engineer
-✓ Build impactful AI products
-✓ Master DSA & system design
-✓ Contribute to meaningful open source
-✓ Work on realtime AI systems
-✓ Explore advanced ML & LLM applications
-```
-
----
 
 # 🌠 CONNECT WITH ME
 
-<div align="center">
+<br>
 
 <a href="https://github.com/kindey10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/kindey10/">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://x.com/Kindey_10">
@@ -241,22 +311,18 @@ Interactive Sanskrit learning platform powered by modern web tech.
 </a>
 
 <a href="mailto:kindey2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="./assets/pikachu.webp" width="55">
-<img src="./assets/bulbasaur.webp" width="55">
-<img src="./assets/charmander.webp" width="55">
-<img src="./assets/squirtle.webp" width="55">
-<img src="./assets/chikorita.webp" width="55">
-<img src="./assets/krabby.webp" width="55">
-<img src="./assets/onix.webp" width="70">
+<img src="./assets/pikachu.webp" width="58">
+<img src="./assets/bulbasaur.webp" width="58">
+<img src="./assets/charmander.webp" width="58">
+<img src="./assets/squirtle.webp" width="58">
+<img src="./assets/chikorita.webp" width="58">
+<img src="./assets/krabby.webp" width="58">
+<img src="./assets/onix.webp" width="75">
 
 <br><br>
 
