@@ -8,21 +8,26 @@
 
 ### AI Builder • Full Stack Developer • Realtime Systems Explorer
 
+<h3>
 Turning ideas into useful products with AI, clean code, thoughtful design and a little bit of pixel-art chaos.
+</h3>
 
 <br>
 
-<img src="./assets/pikachu.webp" width="50">
-<img src="./assets/bulbasaur.webp" width="50">
-<img src="./assets/charmander.webp" width="50">
-<img src="./assets/squirtle.webp" width="50">
-<img src="./assets/chikorita.webp" width="50">
-<img src="./assets/krabby.webp" width="50">
-<img src="./assets/onix.webp" width="65">
+<img src="./assets/pikachu.webp" width="55">
+<img src="./assets/bulbasaur.webp" width="55">
+<img src="./assets/charmander.webp" width="55">
+<img src="./assets/squirtle.webp" width="55">
+<img src="./assets/chikorita.webp" width="55">
+<img src="./assets/krabby.webp" width="55">
+<img src="./assets/onix.webp" width="75">
 
 <br><br>
 
-🏎️ "Smooth operator under pressure." &nbsp;&nbsp;&nbsp; <br>🏁 "Lights out and away we code."
+<h3>
+🏎️ "Smooth operator under pressure." <br>
+🏁 "Lights out and away we code."
+</h3>
 
 </div>
 
@@ -41,15 +46,19 @@ Turning ideas into useful products with AI, clean code, thoughtful design and a 
 
 <div align="center">
 
-### 👩‍💻 ABOUT ME
+## 👩‍💻 ABOUT ME
 
 </div>
+
+<h4>
 
 Computer Science student and builder.  
 
 I enjoy transforming ideas into impactful products through AI, realtime systems and thoughtful design.
 
-Currently exploring:
+</h4>
+
+### Currently Exploring
 
 - LLMs & RAG
 - AI agents
@@ -70,9 +79,11 @@ Currently exploring:
 
 <div align="center">
 
-### 🎮 CURRENT QUEST
+## 🎮 CURRENT QUEST
 
 </div>
+
+<h4 align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
@@ -85,11 +96,13 @@ Currently exploring:
 
 Current Build : AI + Full Stack + DSA
 
+</h4>
+
 <br>
 
 <div align="center">
 
-<img src="./assets/squirtle.webp" width="150">
+<img src="./assets/squirtle.webp" width="170">
 
 </div>
 
@@ -106,47 +119,49 @@ Current Build : AI + Full Stack + DSA
 
 </div>
 
+<br>
+
 <table align="center">
 <tr>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br>C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"><br><b>C++</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"><br><b>Python</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"><br><b>JavaScript</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>TypeScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"><br><b>TypeScript</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"><br><b>React</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"><br>Next.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"><br><b>Next.js</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"><br>Django
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"><br><b>Django</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>Firebase
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"><br><b>Firebase</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br>MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"><br><b>MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"><br><b>Git</b>
 </td>
 
 </tr>
@@ -160,45 +175,59 @@ Current Build : AI + Full Stack + DSA
 
 </div>
 
+<br>
+
 <table align="center">
 
 <tr>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/onix.webp" width="75"> Vision-46
+# <img src="./assets/onix.webp" width="95"> Vision-46
 
+<h4>
 Accessibility-focused ML web application designed for visually impaired users.
+</h4>
 
 `HTML` `CSS` `Python` `ML`
 
-🕷️ Spidy Points : 480/500<br>
+<br>
+
+🕷️ Spidy Points : 480/500  
 Made me win my 1st hackathon!
 
 </td>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/pikachu.webp" width="75"> Veritas
+# <img src="./assets/pikachu.webp" width="95"> Veritas
 
+<h4>
 AI-powered synthetic media detection browser extension.
+</h4>
 
 `JavaScript` `Python` `AI`
 
-🕷️ Spidy Points : 495/500<br>
+<br>
+
+🕷️ Spidy Points : 495/500  
 Best win ever! Worst sleepless nights ever!
 
 </td>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/charmander.webp" width="75"> F1 Pitwall AI
+# <img src="./assets/charmander.webp" width="95"> F1 Pitwall AI
 
+<h4>
 Realtime F1 telemetry and race analysis platform.
+</h4>
 
 `React` `FastAPI` `TypeScript`
 
-🕷️ Spidy Points : 490/500<br>
+<br>
+
+🕷️ Spidy Points : 490/500  
 Come-on its F1!!
 
 </td>
@@ -209,39 +238,51 @@ Come-on its F1!!
 
 <td width="33%" valign="top">
 
-## <img src="./assets/bulbasaur.webp" width="75"> Smart IoT Door Lock
+# <img src="./assets/bulbasaur.webp" width="95"> Smart IoT Door Lock
 
+<h4>
 RFID smart door lock with ESP8266 and Home Assistant integration.
+</h4>
 
 `C++` `ESP8266` `IoT`
 
-🕷️ Spidy Points : 475/500<br>
+<br>
+
+🕷️ Spidy Points : 475/500  
 1st internship 1st new skill
 
 </td>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/chikorita.webp" width="75"> Breathe ESG Review
+# <img src="./assets/chikorita.webp" width="95"> Breathe ESG Review
 
+<h4>
 Workflow platform for ESG data ingestion and validation.
+</h4>
 
 `Django` `React` `PostgreSQL`
 
-🕷️ Spidy Points : 485/500<br>
+<br>
+
+🕷️ Spidy Points : 485/500  
 Worked for a dream!
 
 </td>
 
 <td width="33%" valign="top">
 
-## <img src="./assets/krabby.webp" width="75"> Sanskrit Setu
+# <img src="./assets/krabby.webp" width="95"> Sanskrit Setu
 
+<h4>
 Interactive Sanskrit learning platform powered by modern web tech.
+</h4>
 
 `Next.js` `Firebase` `Tailwind`
 
-🕷️ Spidy Points : 470/500 <br>
+<br>
+
+🕷️ Spidy Points : 470/500  
 Soo many new things learned!
 
 </td>
@@ -258,22 +299,24 @@ Soo many new things learned!
 
 </div>
 
+<br>
+
 <table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-🕸️ Become a top-tier software engineer  
-🕸️ Build impactful AI products  
-🕸️ Master DSA & system design  
+### 🕸️ Become a top-tier software engineer  
+### 🕸️ Build impactful AI products  
+### 🕸️ Master DSA & system design  
 
 </td>
 
 <td width="50%" valign="top">
 
-🕷️ Contribute to meaningful open source  
-🕷️ Work on realtime AI systems  
-🕷️ Explore advanced ML & LLM apps  
+### 🕷️ Contribute to meaningful open source  
+### 🕷️ Work on realtime AI systems  
+### 🕷️ Explore advanced ML & LLM apps  
 
 </td>
 
@@ -306,16 +349,21 @@ Soo many new things learned!
 
 <br><br>
 
-Every bug is a wild Pokémon battle. Let's catch them all and build something amazing.
-<br>
-
-<img src="./assets/pikachu.webp" width="58">
-<img src="./assets/bulbasaur.webp" width="58">
-<img src="./assets/charmander.webp" width="58">
-<img src="./assets/squirtle.webp" width="58">
-<img src="./assets/chikorita.webp" width="58">
-<img src="./assets/krabby.webp" width="58">
-<img src="./assets/onix.webp" width="75">
+<h2>
+Every bug is a wild Pokémon battle.<br>
+Let's catch them all and build something amazing.
+</h2>
 
 <br>
+
+<img src="./assets/pikachu.webp" width="65">
+<img src="./assets/bulbasaur.webp" width="65">
+<img src="./assets/charmander.webp" width="65">
+<img src="./assets/squirtle.webp" width="65">
+<img src="./assets/chikorita.webp" width="65">
+<img src="./assets/krabby.webp" width="65">
+<img src="./assets/onix.webp" width="85">
+
+<br>
+
 </div>
