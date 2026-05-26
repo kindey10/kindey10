@@ -14,16 +14,6 @@ Turning ideas into useful products with AI, clean code, thoughtful design and a 
 
 <br>
 
-<img src="./assets/pikachu.webp" width="55">
-<img src="./assets/bulbasaur.webp" width="55">
-<img src="./assets/charmander.webp" width="55">
-<img src="./assets/squirtle.webp" width="55">
-<img src="./assets/chikorita.webp" width="55">
-<img src="./assets/krabby.webp" width="55">
-<img src="./assets/onix.webp" width="75">
-
-<br><br>
-
 <h3>
 🏎️ "Smooth operator under pressure." <br>
 🏁 "Lights out and away we code."
@@ -83,8 +73,6 @@ I enjoy transforming ideas into impactful products through AI, realtime systems 
 
 </div>
 
-<h4 align="center">
-
 ━━━━━━━━━━━━━━━━━━━━━━
 
 > Exploring LLMs & RAG  
@@ -95,8 +83,6 @@ I enjoy transforming ideas into impactful products through AI, realtime systems 
 <br>
 
 Current Build : AI + Full Stack + DSA
-
-</h4>
 
 <br>
 
@@ -183,7 +169,7 @@ Current Build : AI + Full Stack + DSA
 
 <td width="33%" valign="top">
 
-# <img src="./assets/onix.webp" width="95"> Vision-46
+# <img src="./assets/onix.webp" width="45"> <span style="font-size:38px;">Vision-46</span>
 
 <h4>
 Accessibility-focused ML web application designed for visually impaired users.
@@ -200,7 +186,7 @@ Made me win my 1st hackathon!
 
 <td width="33%" valign="top">
 
-# <img src="./assets/pikachu.webp" width="95"> Veritas
+# <img src="./assets/pikachu.webp" width="45"> <span style="font-size:38px;">Veritas</span>
 
 <h4>
 AI-powered synthetic media detection browser extension.
@@ -217,7 +203,7 @@ Best win ever! Worst sleepless nights ever!
 
 <td width="33%" valign="top">
 
-# <img src="./assets/charmander.webp" width="95"> F1 Pitwall AI
+# <img src="./assets/charmander.webp" width="45"> <span style="font-size:38px;">F1 Pitwall AI</span>
 
 <h4>
 Realtime F1 telemetry and race analysis platform.
@@ -238,7 +224,7 @@ Come-on its F1!!
 
 <td width="33%" valign="top">
 
-# <img src="./assets/bulbasaur.webp" width="95"> Smart IoT Door Lock
+# <img src="./assets/bulbasaur.webp" width="45"> <span style="font-size:38px;">Smart IoT Door Lock</span>
 
 <h4>
 RFID smart door lock with ESP8266 and Home Assistant integration.
@@ -255,7 +241,7 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 <td width="33%" valign="top">
 
-# <img src="./assets/chikorita.webp" width="95"> Breathe ESG Review
+# <img src="./assets/chikorita.webp" width="45"> <span style="font-size:38px;">Breathe ESG Review</span>
 
 <h4>
 Workflow platform for ESG data ingestion and validation.
@@ -272,7 +258,7 @@ Worked for a dream!
 
 <td width="33%" valign="top">
 
-# <img src="./assets/krabby.webp" width="95"> Sanskrit Setu
+# <img src="./assets/krabby.webp" width="45"> <span style="font-size:38px;">Sanskrit Setu</span>
 
 <h4>
 Interactive Sanskrit learning platform powered by modern web tech.
