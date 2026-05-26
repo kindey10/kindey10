@@ -12,14 +12,6 @@ Building AI tools, realtime systems and developer-focused products that solve re
 
 <br>
 
-<img src="./assets/pikachu.webp" width="55">
-<img src="./assets/bulbasaur.webp" width="55">
-<img src="./assets/charmander.webp" width="55">
-<img src="./assets/squirtle.webp" width="55">
-<img src="./assets/chikorita.webp" width="55">
-<img src="./assets/krabby.webp" width="55">
-<img src="./assets/onix.webp" width="70">
-
 </div>
 
 ---
@@ -48,9 +40,9 @@ Currently exploring:
 ```
 
 📍 India  
-📧 kindey10.business@gmail.com  
-🔗 https://linktr.ee/kindey10  
-🐦 https://x.com/Kindey__10  
+📧 [kindey2004@gmail.com](mailto:kindey2004@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kindey10/)  
+🐦 [X / Twitter](https://x.com/Kindey_10)  
 
 </td>
 
@@ -65,17 +57,9 @@ Currently exploring:
 > Preparing for top SWE roles
 ```
 
-<br>
+<div align="right">
 
-### 🏆 LEVEL 23 DEVELOPER
-
-```txt
-EXP ███████░░░░░ 1200 / 2300
-```
-
-<div align="center">
-
-<img src="./assets/squirtle.webp" width="120">
+<img src="./assets/squirtle.webp" width="85">
 
 </div>
 
@@ -91,55 +75,16 @@ EXP ███████░░░░░ 1200 / 2300
 <table>
 <tr>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br>
-C++
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>
-Python
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>
-TypeScript
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>
-React
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"><br>
-Next.js
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"><br>
-Django
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>
-Firebase
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br>
-MongoDB
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>
-Git
-</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><br>C++</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>JavaScript</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>TypeScript</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><br>React</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"><br>Next.js</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"><br>Django</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>Firebase</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><br>MongoDB</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>Git</td>
 
 </tr>
 </table>
@@ -154,11 +99,7 @@ Git
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/onix.webp" width="90">
-
-## Vision-46
+## <img src="./assets/onix.webp" width="38"> Vision-46
 
 Accessibility-focused ML web application designed for visually impaired users.
 
@@ -166,17 +107,11 @@ Accessibility-focused ML web application designed for visually impaired users.
 
 ⭐ 45 &nbsp; 🍴 12
 
-</div>
-
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/pikachu.webp" width="90">
-
-## Veritas
+## <img src="./assets/pikachu.webp" width="38"> Veritas
 
 AI-powered synthetic media detection browser extension.
 
@@ -184,25 +119,17 @@ AI-powered synthetic media detection browser extension.
 
 ⭐ 67 &nbsp; 🍴 18
 
-</div>
-
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/charmander.webp" width="90">
-
-## F1 Pitwall AI
+## <img src="./assets/charmander.webp" width="38"> F1 Pitwall AI
 
 Realtime F1 telemetry and race analysis platform.
 
 `React` `FastAPI` `TypeScript`
 
 ⭐ 32 &nbsp; 🍴 9
-
-</div>
 
 </td>
 
@@ -212,11 +139,7 @@ Realtime F1 telemetry and race analysis platform.
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/bulbasaur.webp" width="90">
-
-## Smart IoT Door Lock
+## <img src="./assets/bulbasaur.webp" width="38"> Smart IoT Door Lock
 
 RFID smart door lock with ESP8266 and Home Assistant integration.
 
@@ -224,17 +147,11 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 ⭐ 28 &nbsp; 🍴 8
 
-</div>
-
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/chikorita.webp" width="90">
-
-## Breathe ESG Review
+## <img src="./assets/chikorita.webp" width="38"> Breathe ESG Review
 
 Workflow platform for ESG data ingestion and validation.
 
@@ -242,25 +159,17 @@ Workflow platform for ESG data ingestion and validation.
 
 ⭐ 21 &nbsp; 🍴 6
 
-</div>
-
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-<img src="./assets/krabby.webp" width="90">
-
-## Sanskrit Setu
+## <img src="./assets/krabby.webp" width="38"> Sanskrit Setu
 
 Interactive Sanskrit learning platform powered by modern web tech.
 
 `Next.js` `Firebase` `Tailwind`
 
 ⭐ 14 &nbsp; 🍴 4
-
-</div>
 
 </td>
 
@@ -323,16 +232,16 @@ Interactive Sanskrit learning platform powered by modern web tech.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/kindey10/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://x.com/Kindey__10">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
+<a href="https://x.com/Kindey_10">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
-<a href="mailto:kindey10.business@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:kindey2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -341,13 +250,13 @@ Interactive Sanskrit learning platform powered by modern web tech.
 
 <div align="center">
 
-<img src="./assets/pikachu.webp" width="65">
-<img src="./assets/bulbasaur.webp" width="65">
-<img src="./assets/charmander.webp" width="65">
-<img src="./assets/squirtle.webp" width="65">
-<img src="./assets/chikorita.webp" width="65">
-<img src="./assets/krabby.webp" width="65">
-<img src="./assets/onix.webp" width="80">
+<img src="./assets/pikachu.webp" width="55">
+<img src="./assets/bulbasaur.webp" width="55">
+<img src="./assets/charmander.webp" width="55">
+<img src="./assets/squirtle.webp" width="55">
+<img src="./assets/chikorita.webp" width="55">
+<img src="./assets/krabby.webp" width="55">
+<img src="./assets/onix.webp" width="70">
 
 <br><br>
 
