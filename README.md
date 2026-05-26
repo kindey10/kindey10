@@ -164,7 +164,7 @@ Current Build : AI + Full Stack + DSA
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## <img src="./assets/onix.webp" width="75"> Vision-46
 
@@ -179,7 +179,7 @@ Made me win my 1st hackathon!
 
 <td width="33%" valign="top">
 
-## <img src="./assets/pikachu.webp" width="50"> Veritas
+## <img src="./assets/pikachu.webp" width="75"> Veritas
 
 AI-powered synthetic media detection browser extension.
 
@@ -192,7 +192,7 @@ Best win ever! Worst sleepless nights ever!
 
 <td width="33%" valign="top">
 
-## <img src="./assets/charmander.webp" width="50"> F1 Pitwall AI
+## <img src="./assets/charmander.webp" width="75"> F1 Pitwall AI
 
 Realtime F1 telemetry and race analysis platform.
 
@@ -209,7 +209,7 @@ Come-on its F1!!
 
 <td width="33%" valign="top">
 
-## <img src="./assets/bulbasaur.webp" width="50"> Smart IoT Door Lock
+## <img src="./assets/bulbasaur.webp" width="75"> Smart IoT Door Lock
 
 RFID smart door lock with ESP8266 and Home Assistant integration.
 
@@ -222,7 +222,7 @@ RFID smart door lock with ESP8266 and Home Assistant integration.
 
 <td width="33%" valign="top">
 
-## <img src="./assets/chikorita.webp" width="50"> Breathe ESG Review
+## <img src="./assets/chikorita.webp" width="75"> Breathe ESG Review
 
 Workflow platform for ESG data ingestion and validation.
 
@@ -235,7 +235,7 @@ Worked for a dream!
 
 <td width="33%" valign="top">
 
-## <img src="./assets/krabby.webp" width="50"> Sanskrit Setu
+## <img src="./assets/krabby.webp" width="75"> Sanskrit Setu
 
 Interactive Sanskrit learning platform powered by modern web tech.
 
@@ -306,6 +306,9 @@ Soo many new things learned!
 
 <br><br>
 
+Every bug is a wild Pokémon battle. Let's catch them all and build something amazing.
+<br>
+
 <img src="./assets/pikachu.webp" width="58">
 <img src="./assets/bulbasaur.webp" width="58">
 <img src="./assets/charmander.webp" width="58">
@@ -314,8 +317,5 @@ Soo many new things learned!
 <img src="./assets/krabby.webp" width="58">
 <img src="./assets/onix.webp" width="75">
 
-<br><br>
-
-Every bug is a wild Pokémon battle. Let's catch them all and build something amazing.
-
+<br>
 </div>
