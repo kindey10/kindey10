@@ -9,7 +9,7 @@
 ### AI Builder • Full Stack Developer • Realtime Systems Explorer
 
 <h3>
-Turning ideas into useful products with AI, clean code, thoughtful design and a little bit of pixel-art chaos.
+Turning ideas into useful products with AI, clean and optimised codes or atleast as optimised as my insomanic mind could workout.
 </h3>
 
 <br>
